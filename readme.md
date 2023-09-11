@@ -95,4 +95,4 @@ Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 ---  
 
 
-![Snake animation](https://github.com/rapid-killer-9/testing/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rapid-killer-9/rapid-killer-9/blob/output/github-contribution-grid-snake.svg)
