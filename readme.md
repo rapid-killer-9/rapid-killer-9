@@ -93,6 +93,8 @@ Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 
 
 ---  
+<h2> 👨‍💻 &nbsp;GitHub Stats</h2>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rapid-killer-9&theme=radical" alt="rapid-killer-9" /></p>
 
 ![Snake animation](https://github.com/rapid-killer-9/rapid-killer-9/blob/output/github-contribution-grid-snake.svg)
