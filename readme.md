@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hello%World!&fontSize=90)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Harsh+Jha!;&center=true&size=30">
+  </a>
+</h1>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
@@ -23,6 +27,15 @@
 <a href="https://www.instagram.com/rapid_killer_9/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+</p>
+
+<p align="center">
+<a href = "mailto:hjha0695@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://discord.com/users/769595307595005952" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+</a> 
 </p>
 
 <p align="center">
@@ -96,7 +109,10 @@ Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 ---  
 <h2> 👨‍💻 &nbsp;GitHub Stats</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rapid-killer-9&theme=radical" alt="rapid-killer-9" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rapid-killer-9&theme=radical" alt="rapid-killer-9" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapid-killer-9&theme=radical&langs_count=8&layout=compact"/>
+</p>
  
  <!-- ![Snake animation](https://github.com/rapid-killer-9/rapid-killer-9/blob/output/github-contribution-grid-snake.svg)   -->
 
@@ -107,3 +123,21 @@ Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 </picture>
 
 <!--  _generated with [Platane/snk](https://github.com/Platane/snk)_  -->
+<!--
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/rapid-killer-9/Food-App" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Food-App&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/KushalTanna24/Chat-Fresh" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Chat-Fresh&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/KushalTanna24/Expense-Tracker" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Expense-Tracker&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/KushalTanna24/ToDoApp" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=ToDoApp&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>   -->
+
+<br><br><br>
+
+<h4 align="center">
+  <a href="https://github.com/rapid-killer-9?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
