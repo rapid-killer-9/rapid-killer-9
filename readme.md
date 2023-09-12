@@ -106,4 +106,4 @@ Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rapid-killler-9/rapid-killer-9/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+<!--  _generated with [Platane/snk](https://github.com/Platane/snk)_  -->
