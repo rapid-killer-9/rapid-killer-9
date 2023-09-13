@@ -70,7 +70,7 @@ technical_background:
     "Intern - Cyber Security Trainee"
   ]
   
-currently_learning: ["Cyber Security", "Next.js", "DevOps"]
+currently_learning: ["Cyber Security", "Next.js", "Web 3.0", "DevOps"]
 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 ```
   
