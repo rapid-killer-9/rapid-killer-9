@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif">
+ <!-- <img src= "https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif"> -->
 </p>
 
 ---
