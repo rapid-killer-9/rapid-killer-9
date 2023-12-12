@@ -71,7 +71,6 @@ technical_background:
   ]
   
 currently_learning: ["Cyber Security", "Next.js", "Web 3.0", "DevOps"]
-Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 ```
   
 ---  
@@ -123,18 +122,17 @@ Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 </picture>
 
 <!--  _generated with [Platane/snk](https://github.com/Platane/snk)_  -->
-<!--
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/rapid-killer-9/Food-App" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Food-App&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/KushalTanna24/Chat-Fresh" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Chat-Fresh&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+  <a align="right" href="https://github.com/rapid-killer-9/Stock_Trend_Prediction" title="Stock_Trend_Prediction"><img align="Center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rapid-killer-9&repo=Stock_Trend_Prediction&theme=react&border_color=61dafb&border_radius=10"></a>
+  <!-- <a align="left" href="https://github.com/KushalTanna24/Chat-Fresh" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Chat-Fresh&theme=react&border_color=61dafb&border_radius=10"></a>
+</div> 
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/KushalTanna24/Expense-Tracker" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Expense-Tracker&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/KushalTanna24/ToDoApp" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=ToDoApp&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>   -->
+</div> -->
 
 <br><br><br>
 
