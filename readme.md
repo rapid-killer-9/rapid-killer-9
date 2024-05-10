@@ -24,7 +24,7 @@
 <a href="https://twitter.com/rapid_killer_9">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://www.instagram.com/rapid_killer_9/">
+<a href="https://www.instagram.com/happy.harsh.01/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
@@ -121,7 +121,7 @@ currently_learning: ["Cyber Security", "Next.js", "Web 3.0", "DevOps"]
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rapid-killler-9/rapid-killer-9/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--  _generated with [Platane/snk](https://github.com/Platane/snk)_  -->
+<!--  _generated with [Platane/snk](https://github.com/Platane/snk)_  
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -132,10 +132,10 @@ currently_learning: ["Cyber Security", "Next.js", "Web 3.0", "DevOps"]
 <div width="100%" align="center">
   <a align="left" href="https://github.com/KushalTanna24/Expense-Tracker" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Expense-Tracker&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/KushalTanna24/ToDoApp" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=ToDoApp&theme=react&border_color=61dafb&border_radius=10"></a>
-</div> -->
+</div> 
 
 <br><br><br>
 
 <h4 align="center">
   <a href="https://github.com/rapid-killer-9?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+</h4>-->
