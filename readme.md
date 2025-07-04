@@ -67,7 +67,8 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Intern - Cyber Security Trainee"
+    "Apprentice - Software Engineer @google"      
+    "Intern - Cyber Security Trainee @vicit.co.za"
   ]
   
 currently_learning: ["Cyber Security", "Next.js", "Web 3.0", "DevOps"]
